@@ -25,10 +25,13 @@ Fungible / Non-Fungible
 - 교환 불가, 각각의 토큰이 고유한 가치를 지닌다.  
 
 
+<br />
+<br />
+
 
 ## 코인과 토큰의 차이점
 
-Difference ? 
+## Difference ? 
 ### 코인 
 - 독립된 블록체인 네트워크에서 운영된다
 - 표준화되지 않음, 자체 블록체인 네트워크가 필요하다
@@ -38,6 +41,12 @@ Difference ?
 - 디앱 or 비앱안에서 쓰인다 . 
 - 이더리움에서 표준화됨 (Ex. ERC-20, ERC-721).
 - 가이드라인을 따라하면 만들기 쉽다.
+
+
+
+<br />
+<br />
+
 
 *참고
 EOS, QTUM은 예전에 토큰이었으나 
@@ -74,6 +83,10 @@ EOS, QTUM은 예전에 토큰이었으나
 - 국가마다 다른 법적 규제가 있어서 진입장벽이 높다.
 
 
+
+<br />
+
+
 ## EIP ( Ethereum Improvement Proposal ) 란 ?
 - 이더리움 개선안 , 
 - 유저들이 제안서를 내는 곳(이더리움 생태계 개선을 위한 제안서를 내는 곳)
@@ -86,10 +99,16 @@ EOS, QTUM은 예전에 토큰이었으나
 - ERC (Ethereum Request for comment) : 토큰 표준화 제안 형식
 제안 
 
+<br />
+
+
 ### 2) Informational EIP
 - 디자인이슈
 - 가이드라인 
 제안
+
+<br />
+
 
 ### 3) Meta EIP
 - 절차
